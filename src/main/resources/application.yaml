@@ -1,0 +1,4 @@
+claimService:
+  api:
+    service:
+      enabled: true
